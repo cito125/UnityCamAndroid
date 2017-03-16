@@ -1,0 +1,7 @@
+#Thu Mar 16 12:51:47 EDT 2017
+base.0=/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfcd9e123787b8af8e0c1822980cb808de037b1e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_07b49983d6b5c6a30a37866a7127245d31749a68/classes.dex
+base.1=/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_07b49983d6b5c6a30a37866a7127245d31749a68
+file.0=/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfcd9e123787b8af8e0c1822980cb808de037b1e/classes.dex

@@ -1,0 +1,4 @@
+#Thu Mar 16 12:40:25 EDT 2017
+base.0=/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e283e4d1d9ee0aae2207d05a1169de69b034411a
+renamed.0=classes.dex
+file.0=/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e283e4d1d9ee0aae2207d05a1169de69b034411a/classes.dex

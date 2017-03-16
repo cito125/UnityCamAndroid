@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af69063ddd67b8707c1c3cdae45d78eeb1004882">
+        <dex dex="/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_07b49983d6b5c6a30a37866a7127245d31749a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfcd9e123787b8af8e0c1822980cb808de037b1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48d0aa68590b2e040c75d8095f93c3cc49f497a5">
+        <dex dex="/Users/andresarango/Desktop/unity_projects/ARFirstRunThrough/ARCamTestAndroid/ARFirstRunThrough/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e283e4d1d9ee0aae2207d05a1169de69b034411a/classes.dex" />
+    </item>
+
+</items>
